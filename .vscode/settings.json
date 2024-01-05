@@ -1,0 +1,7 @@
+{
+    "gitlens.integrations.enabled": false,
+    "editor.suggest.showInterfaces": false,
+    "breadcrumbs.showInterfaces": false,
+    "outline.showInterfaces": false,
+    "terminal.integrated.allowChords": false
+}
