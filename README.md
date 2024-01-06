@@ -15,6 +15,9 @@ Final Project about Cardiovascular Disease Mortality
 - Cô Nguyễn Thị Thu Hằng
 - Thầy Trần Quốc Huy
 # Chủ đề: Heart Attack Analysis & Prediction
+## Đề tài chính: Phân tích xu hướng cấp quận về tỷ lệ tử vong do bệnh tim mạch liên quan đến tăng huyết áp tại Hoa Kỳ, 2000 đến 2019
+## Nguồn dữ liệu: CDC
+## Quy trình
 #### Pha 01 – Thu thập và khám phá dữ liệu
 1. Thu thập dữ liệu
 2. Khám phá dữ liệu
