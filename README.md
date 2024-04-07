@@ -23,6 +23,8 @@ Phân tích xu hướng cấp quận về tỷ lệ tử vong do bệnh tim mạ
 [1] https://data.cdc.gov/Heart-Disease-Stroke-Prevention/Rates-and-Trends-in-Hypertension-related-Cardiovas/uc9k-vc2j/about_data  
 [2] https://wonder.cdc.gov/wonder/help/ucd.html  
 [3] https://www.census.gov/  
+#### Cấp độ truy cập công cộng: 
+Tài sản dữ liệu được cung cấp công khai cho tất cả mọi người mà không bị hạn chế (công khai)
 ## Quy trình
 #### Pha 01 – Thu thập và khám phá dữ liệu
 1. Thu thập dữ liệu
